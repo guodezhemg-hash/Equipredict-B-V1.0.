@@ -1,4 +1,4 @@
-# EquiPredict-B Calculation Core
+# EquiPredict-B:V1.0
 
 This repository contains a compact Python implementation of the calculation core used in EquiPredict-B, a chemical reaction network model for estimating equilibrium flavor-compound concentrations in Chinese Baijiu.
 
